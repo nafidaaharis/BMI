@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container{
+    color: black;
+    width: 30%;
+    height: 40%;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+}
